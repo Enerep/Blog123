@@ -1,0 +1,4 @@
+Shine ym oruulmaar bvl, content folder luu orood tgd shine .md file nee.
+dra terminal deer zuer 'hugo' biceed(bat_hugo_site) dotor, tgd public folder ugnu. 
+- public hrd, yu uurchulsn bn olood, tad terige commit hiih
+- edgy bol suer public folderoo shuud bugdiin commit hiih :)
