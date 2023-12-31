@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bat-Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Bat-Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Dec 2023 23:39:49 +0530</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy New Year&#39;s Eve!!!</title>
+      <link>http://example.org/posts/first_post/</link>
+      <pubDate>Sun, 31 Dec 2023 23:39:49 +0530</pubDate>
+      <guid>http://example.org/posts/first_post/</guid>
+      <description>New 2024 is coming. As the clock ticks closer to midnight, marking the end of another year, it&amp;rsquo;s time to reflect on the moments that made this year unique and anticipate the promise that the new year holds. As we gather with friends and family, the air fills with joy, hope, and the spirit of renewal. New Year&amp;rsquo;s Eve isn&amp;rsquo;t just a transition from one year to the next; it&amp;rsquo;s a celebration of triumphs, an acknowledgment of lessons learned, and an opportunity to express gratitude for the love and support we&amp;rsquo;ve received.</description>
+    </item>
+  </channel>
+</rss>
